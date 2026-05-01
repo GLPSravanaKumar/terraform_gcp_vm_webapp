@@ -39,6 +39,8 @@ This setup creates and manages a virtual machine (VM) instance that serves web c
 
 6. **Access the web server**:
    - Once the deployment is complete, access your web server via the external IP address provided.
+    <img width="1173" height="86" alt="image" src="https://github.com/user-attachments/assets/6d59b069-a7ed-4780-90e7-7bbb49a9307d" />
+    <img width="812" height="227" alt="image" src="https://github.com/user-attachments/assets/9a5fc954-2bf7-4ea7-bffa-f9da71f447d3" />
 
 ## Resources Created
 - A Google Compute Engine instance
