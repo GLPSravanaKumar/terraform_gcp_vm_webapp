@@ -1,0 +1,11 @@
+account_id       = "glps-prod-web-sa"
+webvm_name       = "glps-prod-web-vm"
+machine_type     = "e2-medium"
+zone             = "asia-south1-a"
+image            = "ubuntu-os-cloud/ubuntu-2204-lts"
+vpc_name         = "glps-prod-vpc"
+websubnet_name   = "glps-prod-web-subnet"
+websubnet_cidr   = "10.0.10.0/24"
+region           = "asia-south1"
+webfirewall_name = "glps-prod-web-firewall"
+
